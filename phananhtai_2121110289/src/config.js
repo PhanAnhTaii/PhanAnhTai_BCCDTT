@@ -1,0 +1,1 @@
+export const urlImage="http://localhost:81/composer_phananhtai/public/images/"; 
